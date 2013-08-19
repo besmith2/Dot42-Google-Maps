@@ -1,0 +1,4 @@
+c:\users\bruce\documents\visual studio 2012\Projects\dot42Application1\dot42Application1\Bin\Debug\dot42Application1.apk
+c:\users\bruce\documents\visual studio 2012\Projects\dot42Application1\dot42Application1\Bin\Debug\dot42Application1.d42map
+c:\users\bruce\documents\visual studio 2012\Projects\dot42Application1\dot42Application1\obj\Debug\dot42Application1.dll
+c:\users\bruce\documents\visual studio 2012\Projects\dot42Application1\dot42Application1\obj\Debug\dot42Application1.pdb
