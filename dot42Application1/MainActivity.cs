@@ -124,12 +124,12 @@ namespace dot42Application1
 
         public void OnProviderEnabled(string provider)
         {
-            //txProvider.Text = "Enabled new provider " + provider;
+            
         }
 
         public void OnProviderDisabled(string provider)
         {
-            //txProvider.Text = "Disabled provider " + provider;
+            
         }
 
         #endregion
